@@ -6,6 +6,4 @@ A new Flutter project.
 
 Kodlar bu yerda tartiblanmagan 
 Bo'sh vaqtlarimda har kuni bir dizayn qilish uchun 1-2 soatda bir dastur dizaynini qilishga harakat qilganman
-image.png
-image.png
-
+app-debug.apk
